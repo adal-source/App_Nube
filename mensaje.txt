@@ -1,2 +1,2 @@
-simple saludo
+hacer lo mismo
 segundo parrafo
